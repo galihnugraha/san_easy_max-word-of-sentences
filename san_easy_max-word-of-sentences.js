@@ -12,7 +12,7 @@ const sentences = [
   'Sed non nibh quam. Pellentesque eget ultrices diam. Aliquam diam justo, consectetur ac dui lobortis, vestibulum bibendum lorem. Sed porta pulvinar.',
 ]
 
-var result = sentences => {
+const result = sentences => {
   // your code here
   const splitedArray = sentences.splice(',')
   
